@@ -1,2 +1,2 @@
-# multivarka
-ITMO listing repo for multivariate data analysis (teamwork).
+# itmo-multivar-labs
+ITMO University team assignments for the discipline "Multivariate Data Analysis".
